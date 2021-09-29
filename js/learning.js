@@ -58,3 +58,4 @@
 // console.log(incr, decr);
 
 const isChecked = false, isClose = false;
+//alert
