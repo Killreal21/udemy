@@ -57,6 +57,66 @@
 
 // console.log(incr, decr);
 
-const isChecked = false, isClose = false;
+//const isChecked = false, isClose = false;
 //alert
 //fgf
+
+// let num = 50;
+
+// while (num <= 55) {
+//     console.log(num);
+//     num++;
+// }
+
+// do {
+//     console.log(num);
+//     num++;
+// }
+// while (num < 50);
+
+// for (let i = 1; i < 8; i++) {
+//     console.log(num);
+//     num++;
+// } 
+
+// let num =20;
+
+// function showFirstNessage(text) {
+//     console.log(text);
+//     let num = 10;
+//     return num;
+// }
+
+// showFirstNessage("h"); 
+// console.log(num);
+
+
+// function calc(a, b) {
+//     return (a + b);
+// }
+
+// console.log(calc(4, 5));
+
+// function ret() {
+//     let num = 50;
+
+//     return num;
+// }
+
+//const calc = (a, b) => a + b;
+
+// let str = 'tEst';
+// str = str.toLowerCase()
+
+
+// console.log(str);
+
+// let fruit = "Some fruit";
+
+// console.log(fruit.indexOf("q"));
+
+// const logg = "Hello world";
+
+// console.log(logg.slice());
+
+
